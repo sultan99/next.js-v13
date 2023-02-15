@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"Find in-depth information about Next.js features and API.\":\"Больше информации о функциях и API Next.js.\",\"Get started by editing\":\"Начни с рекаткирования\"}")};

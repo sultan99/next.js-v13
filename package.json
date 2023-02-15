@@ -1,0 +1,38 @@
+{
+  "name": "nextjs-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "compile": "lingui compile",
+    "dev": "next dev",
+    "extract": "lingui extract",
+    "lint": "next lint",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@formatjs/intl-localematcher": "^0.2.32",
+    "@lingui/core": "^3.17.1",
+    "@lingui/react": "^3.17.1",
+    "@next/font": "13.1.6",
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.10",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "make-plural": "^7.2.0",
+    "negotiator": "^0.6.3",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@lingui/cli": "^3.17.1",
+    "@lingui/macro": "^3.17.1",
+    "@lingui/swc-plugin": "^0.2.0",
+    "@types/negotiator": "^0.6.1"
+  }
+}
